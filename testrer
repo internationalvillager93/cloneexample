@@ -1,0 +1,1 @@
+Insert into RANDOM_NUMBERS select '12','21','31';
